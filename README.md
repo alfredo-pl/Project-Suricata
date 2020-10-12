@@ -1,4 +1,4 @@
-# Proyect-Suricata
+# Project-Suricata
 
  >**Nota** _Readme.md para la presentación de mi proyecto._
  
@@ -7,7 +7,7 @@
 ```
 
 ## ¡Vé Ahora!
-Verás la vista final en [Proyecto Suricata](https://alfredo-pl.github.io/Proyect-Suricata/)
+Verás la vista final en [Proyecto Suricata](https://alfredo-pl.github.io/Project-Suricata/)
 
  
 ## Requisitos
